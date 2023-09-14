@@ -183,7 +183,7 @@ body {
     /*Cambiar el tamaño y el color de los iconos*/
     .bi {
         font-size: 2rem;
-        color: var(--colorBlanco);
+        color: white;
         
     }
 
