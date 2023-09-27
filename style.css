@@ -94,7 +94,9 @@ body {
     height: 100px;
 }
 
-
+.publicidad container {
+    padding: 170px; 
+}
 
 .portada{
     max-width: 0 ;
