@@ -54,6 +54,7 @@ h6{
     top: 0;
     left: 0;
     z-index: 2;
+    cursor: pointer;
      & img {
          width: 25px;
          height: 25px;
