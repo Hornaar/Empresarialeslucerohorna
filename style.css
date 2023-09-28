@@ -35,7 +35,9 @@ h6{
     font-weight: 700;
 }
 
-
+.ads {
+    width: 160px
+}
 header {
     background-image: url("imágenes/Fondo\ menu\ dorado.png");
     background-repeat: no-repeat;
