@@ -48,6 +48,18 @@ h6{
 .ads2 {
     right:60px;
 }
+
+.cerrar-ads {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+     & img {
+         width: 25px;
+         height: 25px;
+     }
+}
+
 header {
     background-image: url("imágenes/Fondo\ menu\ dorado.png");
     background-repeat: no-repeat;
