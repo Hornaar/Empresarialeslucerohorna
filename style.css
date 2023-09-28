@@ -35,8 +35,18 @@ h6{
     font-weight: 700;
 }
 
-.ads {
-    width: 160px
+.ads1, .ads2 {
+    width: 160px;
+    position: fixed;
+    top: 180px;
+}
+
+.ads1 {
+    left: 60px;
+}
+
+.ads2 {
+    right:60px;
 }
 header {
     background-image: url("imágenes/Fondo\ menu\ dorado.png");
